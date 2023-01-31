@@ -1,0 +1,19 @@
+﻿body {
+    font-palette: inherit;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+    width: 100%;
+}
+
+h5 {
+    text-align: center;
+    width: 100%;
+    color:darkviolet;
+}
